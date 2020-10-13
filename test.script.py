@@ -1,1 +1,1 @@
-print('Hello, World! \n This is a testing Python-script for Git')
+print('Hello, World!\nThis is a testing Python-script for Git.')
